@@ -1,0 +1,4 @@
+Dataset authors: Sim, Ye-Ji, PhD, Hwangbo, Lee, MD.
+Date completed: June 18, 2023.
+Description
+This dataset consists of images obtained from the digital subtraction angiography (DSA) of cerebral blood vessels, specifically the arterial phase. The images were acquired by injecting contrast agents into both the left and right internal carotid arteries (ICAs) and vertebral arteries (VAs), and then projecting them onto the frontal and lateral views. The dataset is completely anonymized, and information regarding the presence of cerebral aneurysms is included in the form of a CSV file. The resolution of each image may vary depending on the image processing technique used, so it is anticipated that technical preprocessing will be necessary.
